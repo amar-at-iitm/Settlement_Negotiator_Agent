@@ -1,9 +1,6 @@
 import csv
 import json
 import math
-import csv
-import json
-import math
 import os
 
 def load_borrower_data(filepath):
